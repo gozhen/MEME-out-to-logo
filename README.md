@@ -2,7 +2,7 @@
 
 **_./example\_meme\_out.txt_** - MEME output file example
 
-**_./f\_MEMEout\_to\_enologoIn.m_** - MATLAB function to convert formatted MEME output motif file to Enologo input files.
+**_./f\_MEMEout\_to\_enologoIn.m_** - a MATLAB function to convert formatted MEME output motif file to Enologo input files.
 
 _**Example** (run in Matlab):_
 
@@ -14,6 +14,6 @@ _**Example** (run in Matlab):_
 
 **_./example\_enologo\_pwm.txt_** - Enologo example input file
 
-**_./s\_gen\_enologo\_logo.py_** - python code to programmatically convert Enologo input files to Enologo-formatted logos. Please install Anaconda python package and mechanize module (- a python virtual browser) first.
+**_./s\_gen\_enologo\_logo.py_** - python code to programmatically convert Enologo input files to Enologo-formatted logos. Please install Anaconda python package and mechanize module (- a python virtual browser) first. Including one method and main.
 
 **_./example\_enologo\_logo.pdf_** - Enologo example output file
