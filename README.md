@@ -1,6 +1,6 @@
 # Programmatically generate sequence logos from MEME output files
 
-**_./example\_meme\_out.txt_** - MEME output file example
+[**_./example\_meme\_out.txt_**](https://github.com/gozhen/MEME-out-to-logo/blob/master/example_meme_out.txt) - MEME output file example
 
 **_./f\_MEMEout\_to\_enologoIn.m_** - a MATLAB function to convert formatted MEME output motif file to Enologo input files.
 
